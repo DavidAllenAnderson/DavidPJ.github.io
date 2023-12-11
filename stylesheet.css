@@ -212,6 +212,14 @@ h23 {
     text-align: left;
     margin-top: 5px;
 }
+h24 {
+    font-size: 14px;
+    color: white;
+    text-align: left;
+    width: 600px;
+    margin-bottom: 32px;
+    margin-top: 32px;
+}
 .header{
     background-color: #D95204;
     width: 100%;
