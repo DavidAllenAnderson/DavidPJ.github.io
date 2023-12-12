@@ -213,12 +213,10 @@ h23 {
     margin-top: 5px;
 }
 h24 {
-    font-size: 14px;
+    font-size: 1px;
     color: white;
     text-align: left;
-    width: 600px;
-    margin-bottom: 32px;
-    margin-top: 32px;
+    margin-top: 5px;
 }
 .header{
     background-color: #D95204;
@@ -336,6 +334,7 @@ input.qtyminus { width:25px; height:25px;}
     background-color: none;
     justify-content: center;
     clear: both;
+    
 }
 .flex-container6 > div {
     background-color: #D95204;
