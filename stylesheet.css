@@ -225,6 +225,12 @@ h25 {
     margin-top: 5px;
     align-content: center;
 }
+h26 {
+    font-size: 25px;
+    color: #D95204;
+    text-align: center;
+    align-content: center;
+}
 .header{
     background-color: #D95204;
     width: 100%;
@@ -556,7 +562,6 @@ input[type=submit]:hover {
   height: 300px;
   perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
-
 /* This container is needed to position the front and back side */
 .flip-card-inner {
   position: relative;
@@ -588,8 +593,8 @@ input[type=submit]:hover {
 }
 
 /* Style the back side */
-.flip-card-back {
-  background-color: dodgerblue;
+.flip-card-back  {
+  background-color:dodgerblue;
   color: white;
   transform: rotateY(180deg);
 }
@@ -598,7 +603,7 @@ input[type=submit]:hover {
 }
 
 body {
-  font-family: Roboto Arial;
+  font-family: Roboto;
   padding: 20px;
   background: #D95204;
 }
@@ -620,7 +625,7 @@ body {
 
 /* Fake image */
 .fakeimg {
-  background-color: #aaa;
+  background-color: none;
   width: 100%;
   padding: 20px;
 }
