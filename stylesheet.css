@@ -231,6 +231,12 @@ h26 {
     text-align: center;
     align-content: center;
 }
+h27 {
+    font-size: 18px;
+    color: white;
+    text-align: left;
+    width: 600px;
+}
 .header{
     background-color: #D95204;
     width: 100%;
